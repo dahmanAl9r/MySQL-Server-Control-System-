@@ -1,0 +1,4 @@
+A application for mysql control and databases, with python. arabic, english.
+made by : Zakaria Aliliche.
+
+                                                         (:
