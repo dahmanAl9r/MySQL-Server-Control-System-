@@ -424,4 +424,3 @@ show_databases.place(x=10,y=40,width=330,height=200)
 
 
 root.mainloop()
-time.sleep(5000)
